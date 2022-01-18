@@ -1,0 +1,5 @@
+city,apikey,country,id,url
+London,bd7f413abdadde68a8a41b65398d57b7,uk,2172797,api.openweathermap.org
+Delhi,bd7f413abdadde68a8a41b65398d57b7,in,2172797,api.openweathermap.org
+Hydebarad,bd7f413abdadde68a8a41b65398d57b7,in,2172797,api.openweathermap.org
+Tijuana,bd7f413abdadde68a8a41b65398d57b7,mx,2172797,api.openweathermap.org
